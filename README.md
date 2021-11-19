@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Sharaf</h1>
 <h3 align="center">A passionate Software engineer and math geek</h3>
+<p align="center"> <a href="https://github.com/sharafcode/sharafcode/raw/main/assets/sinpsons.gif"><img src="https://github.com/sharafcode/sharafcode/raw/main/assets/sinpsons.gif" alt="asim97" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharafcode&label=Profile%20views&color=0e75b6&style=flat" alt="sharafcode" /> </p>
 
@@ -15,8 +16,13 @@
 
 - ⚡ Fun fact **I do love Crossfit**
 
-### Blogs posts
+
+📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Ever wondered about what is half-derivative of X?]()
+- [What is 0 to the power of 0?]()
+- [A beginner's guide to Machine Learning]()
+- [Is Udacity NLP Nanodegree the best way to learn NLP?]()
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
